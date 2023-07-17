@@ -1,0 +1,1 @@
+<!-- all basic syntax to advanced projects and AI building  -->
