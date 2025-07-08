@@ -1,1 +1,0 @@
-<!-- Complete react with typescript and fullstack mern stack development overview -->
