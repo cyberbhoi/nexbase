@@ -1,3 +1,4 @@
-# NextJS Starter Apps 
+# Your Awesome Next and Rust Projects
 
-List of all NextJS starter app for quick development
+
+List of all Next and Rust Projects 
